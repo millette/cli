@@ -14,7 +14,7 @@
   },
   "scripts": {
     "test": "make test",
-    "prepare": "npm i babel pug coffee-script node-sass --no-save"
+    "prepare": "npm i babel-cli pug coffeescript node-sass --no-save"
   },
   "repository": {
     "type": "git",
